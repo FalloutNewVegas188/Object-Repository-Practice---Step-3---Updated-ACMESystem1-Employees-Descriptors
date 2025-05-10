@@ -1,0 +1,17 @@
+﻿{
+  "Id": "lgEKhxUBqkqA1ZY0cWMjIw",
+  "Reference": "g0GpAmr-lUe9PEFSdfxKDQ/lgEKhxUBqkqA1ZY0cWMjIw",
+  "ParentRef": "g0GpAmr-lUe9PEFSdfxKDQ/Y1ZrlFigW0afA9vllMnRVA",
+  "Name": "Close Employee Details",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-07-28T14:15:27.468469Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-08-22T07:28:50.5163526Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

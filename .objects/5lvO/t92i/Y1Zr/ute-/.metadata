@@ -1,0 +1,17 @@
+﻿{
+  "Id": "ute-CA2e9Uuv4Xqj1FvTHQ",
+  "Reference": "g0GpAmr-lUe9PEFSdfxKDQ/ute-CA2e9Uuv4Xqj1FvTHQ",
+  "ParentRef": "g0GpAmr-lUe9PEFSdfxKDQ/Y1ZrlFigW0afA9vllMnRVA",
+  "Name": "Employee Details",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-07-28T14:07:00.4699785Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-08-22T07:25:18.9681016Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

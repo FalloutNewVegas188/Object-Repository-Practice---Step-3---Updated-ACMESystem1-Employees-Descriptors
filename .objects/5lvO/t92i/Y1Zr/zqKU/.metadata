@@ -1,0 +1,17 @@
+﻿{
+  "Id": "zqKUUewvXEmKXz8K3F_QNw",
+  "Reference": "g0GpAmr-lUe9PEFSdfxKDQ/zqKUUewvXEmKXz8K3F_QNw",
+  "ParentRef": "g0GpAmr-lUe9PEFSdfxKDQ/Y1ZrlFigW0afA9vllMnRVA",
+  "Name": "Selected Employee Name",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2023-07-27T11:22:41.4419617Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-08-22T07:23:54.5264288Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

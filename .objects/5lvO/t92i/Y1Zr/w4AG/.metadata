@@ -1,0 +1,16 @@
+﻿{
+  "Id": "w4AGQ6ErkUiC90YnN6WF8A",
+  "Reference": "g0GpAmr-lUe9PEFSdfxKDQ/w4AGQ6ErkUiC90YnN6WF8A",
+  "ParentRef": "g0GpAmr-lUe9PEFSdfxKDQ/Y1ZrlFigW0afA9vllMnRVA",
+  "Name": "Close Start Message Box",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-07-27T11:16:17.0568737Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-08-22T07:23:58.0514274Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

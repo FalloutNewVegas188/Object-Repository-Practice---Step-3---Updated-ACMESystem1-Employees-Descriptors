@@ -1,0 +1,17 @@
+﻿{
+  "Id": "ox-KFdSby0m_L8NwHw_T6g",
+  "Reference": "g0GpAmr-lUe9PEFSdfxKDQ/ox-KFdSby0m_L8NwHw_T6g",
+  "ParentRef": "g0GpAmr-lUe9PEFSdfxKDQ/Y1ZrlFigW0afA9vllMnRVA",
+  "Name": "Employee Phone",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2023-07-28T14:13:39.3759991Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-08-22T07:26:15.7820967Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
